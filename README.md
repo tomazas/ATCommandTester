@@ -10,6 +10,7 @@
 ***Windows users***
 
 `Run run_x32.bat file to launch the program on 32-bit Windows.`
+
 `Run run_x64.bat file to launch the program on 64-bit Windows.`
 
 ***Screenshots***
