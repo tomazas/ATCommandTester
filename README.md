@@ -13,6 +13,24 @@
 
 `Run run_x64.bat file to launch the program on 64-bit Windows.`
 
+***GNU/Linux users***
+
+Install the Java Runtime Environment (JRE) and the java package for `RXTXComm.jar`
+
+I.e: in Ubuntu GNU/Linux:
+
+`sudo apt install openjdk-11-jre` for the JRE, if you don't have the command `java`
+
+and
+
+`sudo apt install librxtx-java` for the RXTXcomm library.
+
+After that you can run the program with the right permissions to write to your serial port.
+
+If you are in doubt... just use sudo ;)
+
+`sudo java -jar ATCommandTester.jar`
+
 ***Screenshots***
 
 <img src="img/screen1.png" width="500">
