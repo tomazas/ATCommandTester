@@ -1,5 +1,9 @@
 ### ATCommandTester
 
+#### NOTE: This repo is just for reference to the old application code, it's not actively maintained or supported.
+
+---
+
 `Test AT commands for GSM modems over serial (RS232/UART) connection with lots of options.`
 
 * Ported and cleaned up version of the ATCommandTester from m2msupport.net
